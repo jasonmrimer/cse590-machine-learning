@@ -1,3 +1,6 @@
+final-project/dataset/
+
+# This is the commit message #10:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
