@@ -11,16 +11,16 @@ For this problem, you will use the Wine Quality database (posted in Blackboard).
 
 ### KNN
 Build and train a KNN Regression model. Vary the parameter K and analyze the results by identifying cases of overfitting and underfitting. Select the optimal value of K. 
-![](graphic knn.png)
+![](graphics/graphic_knn.png)
 
 ### OLS Regression
 Build and train an OLS Regression model. Analyze the results and indicate if the learned model is a good choice for this data. 
-![](graphic ols.png)
+![](graphics/graphic_ols.png)
 
 ### Ridge Regression
 Build and train a Ridge Regression model. Vary the constraint parameter α and analyze the results by identifying cases of overfitting and underfitting. Select the optimal value of α.
-![](graphic ridge.png)
+![](graphics/graphic_ridge.png)
 
 ### LASSO Regression
 Build and train a LASSO Regression model. Vary the constraint parameter α and analyze the results by identifying cases of overfitting and underfitting. Select the optimal value of α.
-![](graphic lasso.png)
+![](graphics/graphic_lasso.png)
